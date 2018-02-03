@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="taotao-api-user" />
+        <module name="taotao-service-user" />
+        <module name="taotao-web" />
+        <module name="taotao-web-manager" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="taotao" target="1.7" />
+      <module name="taotao-api-user" target="1.8" />
+      <module name="taotao-service-user" target="1.7" />
+      <module name="taotao-web" target="1.5" />
+      <module name="taotao-web-manager" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

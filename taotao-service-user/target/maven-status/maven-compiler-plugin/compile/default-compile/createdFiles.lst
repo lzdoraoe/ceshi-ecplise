@@ -1,0 +1,3 @@
+com\usian\taotao\service\user\user\api\impl\ContentServiceImpl.class
+com\usian\taotao\service\user\user\UserProvider.class
+com\usian\taotao\service\user\user\mapper\ContentMapper.class
